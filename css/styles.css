@@ -1,0 +1,301 @@
+/* *****************************Navbar******************************************** */
+
+.logo {
+  margin-left: 100px;
+}
+
+.item-list {
+  margin-left: 290px;
+  font-family: 'Public Sans', sans-serif;
+}
+
+.my-invite {
+  color: white;
+  font-size: small;
+  padding: 10px;
+  font-family: 'Public Sans', sans-serif;
+}
+
+.my-invite-div {
+  background-color: #4cd3c2;
+  border-radius: 35px;
+  width: 160px;
+  text-align: center;
+  margin-left: 220px;
+}
+
+.my-invite-div:hover {
+  background-color: #2fc4b2;
+}
+
+/* *****************************First Header************************************** */
+
+.first-header {
+  background-color: #f9f6f7;
+  height: 530px;
+  width: 100%;
+}
+
+.intro-image {
+  height: 570px;
+  width: 50%;
+  position: absolute;
+  right: 0;
+}
+
+.mockup-image {
+  height: 650px;
+  width: 550px;
+  position: absolute;
+  right: 0;
+}
+
+.title-div {
+  background-color: #f9f6f7;
+  height: 270px;
+  width: 460px;
+  display: inline-block;
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 100px;
+}
+
+.title-title {
+  font-family: 'Public Sans', sans-serif;
+  margin-bottom: -7px;
+}
+
+.title-des {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 18px;
+  color: rgba(0,0,0,.5);
+  margin-bottom: 32px;
+}
+
+.title-invite {
+  margin-left: 0;
+}
+
+/* **********************Second Header******************************************** */
+
+.second-header {
+  background-color: #f8f9fa;
+  height: 570px;
+  width: 100%;
+}
+
+.second-header-title-div {
+  display: inline-block;
+  position: absolute;
+  top: 620px;
+  left: 100px;
+}
+
+.second-header-title {
+  font-family: 'Public Sans', sans-serif;
+  margin-bottom: 23px;
+}
+
+.second-header-title-des {
+  font-family: 'Public Sans', sans-serif;
+  color: rgba(0,0,0,.5);
+}
+
+.second-header-styles-title {
+  font-family: 'Public Sans', sans-serif;
+  margin-bottom: 23px;
+}
+
+.second-header-styles-des {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 14px;
+  color: rgba(0,0,0,.5);
+}
+
+.second-header-styles-image {
+  height: 60px;
+  width: 60px;
+  margin-bottom: 30px;
+}
+
+.second-header-common-styles {
+  display: inline-block;
+  position: absolute;
+  top: 790px;
+}
+
+.online-banking-div {
+  left: 100px;
+}
+
+
+.simple-budgeting-div {
+  left: 400px;
+}
+
+.fast-on-div {
+  left: 700px;
+}
+
+.api-div {
+  left: 1000px;
+}
+
+/* ****************************Third Header*************************************** */
+
+.third-header {
+  background-color: #f4f6ff;
+  height: 595px;
+  width: 100%;
+}
+
+.third-header-title-div {
+  display: inline-block;
+  position: absolute;
+  top: 1175px;
+  left: 100px;
+}
+
+.third-header-title {
+  font-family: 'Public Sans', sans-serif;
+}
+
+.third-header-image {
+  height: 170px;
+  width: 265px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.third-header-by {
+  font-family: 'Puublic Sans', sans-serif;
+  font-size: 11px;
+  color: rgba(0,0,0,.5);
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.third-header-link-div {
+  margin-left: 20px;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  font-family: 'Public Sans', sans-serif;
+}
+
+.third-header-link {
+  color: black;
+}
+
+.third-header-link:hover {
+  color: #61d4b3;
+  text-decoration: none;
+}
+
+.third-header-des {
+  font-family: 'Public Sans', sans-serif;
+  font-size: small;
+  color: rgba(0,0,0,.5);
+  margin-left: 20px;
+  margin-right: 35px;
+}
+
+.third-header-common-styles {
+  display: inline-block;
+  background-color: white;
+  position: absolute;
+  top: 1255px;
+}
+
+.art-1 {
+  left: 100px;
+}
+
+.art-2 {
+  left: 400px;
+}
+
+.art-3 {
+  left: 700px;
+}
+
+.art-4 {
+  left: 1000px;
+}
+
+/* *************************Footer*********************************************** */
+
+.footer {
+  background-color: #142850;
+  height: 300px;
+  width: 100%;
+}
+
+.logo-2 {
+  height: 35px;
+  width: 150px;
+  margin-top: 45px;
+}
+
+.footer-link-1-position {
+  left: 80px;
+  margin-top: 30px;
+}
+
+.footer-link-1-color:hover {
+  background-color: #61d4b3;
+}
+
+.footer-link-2-3-common-position {
+  position: absolute;
+  top: 1735px;
+}
+
+.footer-link-2-position {
+  left: 400px;
+}
+
+.footer-link-2-3-common-color {
+  color: white;
+}
+
+.footer-link-2-3-common-color:hover {
+  color: #61d4b3;
+}
+
+.footer-link-3-position {
+  left: 600px;
+}
+
+.footer-invite {
+  position: absolute;
+  left: 1015px;
+  top: 1765px;
+}
+
+.footer-legal {
+  display: inline-block;
+  font-family: 'Public Sans', sans-serif;
+  font-size: small;
+  color: #738598;
+  position: absolute;
+  left: 962px;
+  top: 1830px;
+}
+
+/* **********************************Credit************************************** */
+
+.attribution {
+  font-family: 'Public Sans', sans-serif;
+  color: #bbbbbb;
+  display: inline-block;
+  position: absolute;
+  top: 1950px;
+  left: 460px;
+}
+
+.credit-link:hover {
+  text-decoration: none;
+  color: #61d4b3;
+}
